@@ -5,6 +5,7 @@
  */
 package test;
 
+import test.Second;
 /**
  *
  * @author admin
@@ -18,6 +19,8 @@ public class Test {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("First Commit");
+        
+        Second.cetak2();
     }
     
 }
