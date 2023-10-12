@@ -21,6 +21,9 @@ public class Test {
         System.out.println("First Commit");
         
         Second.cetak2();
+        
+//        I create this in master branch
+        Second.cetak2();
     }
     
 }
