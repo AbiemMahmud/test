@@ -20,7 +20,8 @@ public class Test {
         System.out.println("Hello World");
         System.out.println("First Commit");
         
-        Second.cetak2();
+//        I change the second commit line to new branch commit line
+        firstFeature.Feature1.feat1();
     }
     
 }
